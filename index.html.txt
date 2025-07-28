@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sunil's Fast Food</title>
+  <style>
+    body { font-family: Arial; margin: 0; background-color: #fff8e1; }
+    header { background-color: #ff5722; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #ffab40; padding: 10px; text-align: center; }
+    nav a { margin: 0 15px; text-decoration: none; color: #000; font-weight: bold; }
+    section { padding: 20px; }
+    footer { background-color: #ff5722; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Sunil's Fast Food</h1>
+  <p>Vada Pav, Idli, Dosa, and More!</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">Menu</a>
+  <a href="#">Contact</a>
+</nav>
+
+<section>
+  <h2>Welcome!</h2>
+  <p>We serve hot and fresh South Indian snacks in Vadodara. Come taste the difference!</p>
+</section>
+
+<footer>
+  <p>📞 Call Us: +91-XXXXXXXXXX | 📍 Vadodara</p>
+</footer>
+
+</body>
+</html>
